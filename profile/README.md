@@ -26,6 +26,7 @@
 <img width="1920" height="1080" alt="기능 3" src="https://github.com/user-attachments/assets/4e6c6115-d08e-429e-b107-87469f682b0d" />
 <img width="1920" height="1080" alt="랜딩페이지 기능 4 안전거래" src="https://github.com/user-attachments/assets/300c4024-8746-431f-8023-88c368518ab2" />
 <img width="1920" height="1080" alt="랜딩페이지 기능 5 N원 아꼈어요" src="https://github.com/user-attachments/assets/2dcaeef7-5fa4-4f49-b9a5-30eaa3dc1869" />
+<img width="1920" height="1080" alt="우리서비스 (1)" src="https://github.com/user-attachments/assets/e59424d4-e1c8-41f0-9628-aa1d36b8ef3a" />
 <img width="1934" height="1080" alt="IA" src="https://github.com/user-attachments/assets/454e5e01-f294-4d15-9ba7-07a402e20728" />
 
 
